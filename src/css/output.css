@@ -637,6 +637,10 @@ video {
   display: flex;
 }
 
+.table {
+  display: table;
+}
+
 .hidden {
   display: none;
 }
@@ -943,11 +947,6 @@ video {
 .text-\[\#5C4529\] {
   --tw-text-opacity: 1;
   color: rgb(92 69 41 / var(--tw-text-opacity, 1));
-}
-
-.text-\[\#B7A28B\] {
-  --tw-text-opacity: 1;
-  color: rgb(183 162 139 / var(--tw-text-opacity, 1));
 }
 
 .text-primery {
